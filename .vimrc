@@ -44,6 +44,9 @@ let g:jsx_ext_required = 0
 " Ctrl-P
 Plugin 'ctrlpvim/ctrlp.vim'
 
+" .editorconfig
+Plugin 'editorconfig/editorconfig-vim'
+
 call vundle#end()
 
 " I forget what this does at the time of setting up this respository
